@@ -1,0 +1,88 @@
+"","Feeding","Habitat","Migration","Reproduction","Rheophily","Sensitivity","FRI","S2FRI"
+"Abramis.brama","omnivorous","benthic","potamodromous","phytolithophil","eurytop",3.36,7,0.55
+"Acipenser.ruthenus","invertivorous","demersal","potamodromous","lithophil","rheophil",4.36,7,0.55
+"Alburnoides.bipunctatus","invertivorous","benthic","potamodromous","lithophil","rheophil",1.93,5.42,0.45
+"Alburnus.alburnus","omnivorous","benthic","potamodromous","phytolithophil","eurytop",2.14,6.58,0.63
+"Alosa.alosa","planktivorous","pelagic","diadromous","lithopelagophil","rheophil",3.71,7,0.73
+"Alosa.fallax","planktivorous","pelagic","diadromous","lithopelagophil","rheophil",3.71,7.75,0.2
+"Ambloplites.rupestris","omnivorous","demersal","non migratory","polyphil","limnophil",2.79,6.83,0.33
+"Anguilla.anguilla","omnivorous","demersal","diadromous","pelagophil","eurytop",4.57,6.67,1.7
+"Aspius.aspius","piscivorous","benthic","potamodromous","lithophil","eurytop",3.86,6.75,0.39
+"Atherina.presbyter","invertivorous","pelagic","diadromous","phytophil","limnophil",2.07,7.83,0.15
+"Ballerus.sapa","invertivorous","benthic","potamodromous","lithophil","rheophil",4.07,6.75,0.39
+"Barbatula.barbatula","invertivorous","demersal","potamodromous","psammophil","rheophil",1.93,5.25,0.93
+"Barbus.barbus","invertivorous","benthic","potamodromous","lithophil","rheophil",4.5,6.08,0.45
+"Barbus.meridionalis","invertivorous","benthic","non migratory","lithophil","rheophil",2.36,5,0.36
+"Benthophiloides.brauneri","omnivorous","demersal","non migratory","psammophil","limnophil",2.9,7.42,0.27
+"Blicca.bjoerkna","omnivorous","demersal","potamodromous","phytophil","eurytop",2.86,7,0.55
+"Carassius.carassius","omnivorous","demersal","potamodromous","phytophil","limnophil",2.79,6.92,0.27
+"Chondrostoma.nasus","omnivorous","benthic","potamodromous","lithophil","rheophil",3.79,5.67,0.61
+"Cobitis.elongatoides","invertivorous","demersal","non migratory","phytophil","rheophil",2,6.25,1.3
+"Cobitis.taenia","invertivorous","benthic","potamodromous","phytophil","rheophil",2.21,6.5,0.64
+"Coregonus.lavaretus","planktivorous","demersal","diadromous","lithophil","limnophil",4.71,7.33,0.42
+"Coregonus.maraena","planktivorous","demersal","diadromous","lithophil","limnophil",4.71,7.33,0.42
+"Coregonus.oxyrinchus","invertivorous","demersal","diadromous","lithophil","rheophil",4.71,7.25,0.39
+"Coregonus.peled","planktivorous","demersal","diadromous","lithophil","limnophil",4.71,7.33,0.42
+"Cottus.gobio","invertivorous","demersal","non migratory","speleophil","rheophil",2.71,4.17,1.24
+"Cottus.poecilopus","invertivorous","demersal","non migratory","speleophil","rheophil",2.93,4.42,0.99
+"Ctenopharyngodon.idella","phytovorous","demersal","potamodromous","lithophil","eurytop",3.86,7.17,0.15
+"Cyprinus.carpio","omnivorous","benthic","potamodromous","phytophil","eurytop",3.57,7,0.36
+"Dicentrarchus.labrax","piscivorous","demersal","diadromous","pelagophil","rheophil",4.5,7.83,0.15
+"Esox.lucius","piscivorous","demersal","potamodromous","phytophil","eurytop",3,6.58,0.99
+"Eudontomyzon.mariae","detritivorous","demersal","potamodromous","lithophil","eurytop",2.36,5.33,1.15
+"Gasterosteus.aculeatus","omnivorous","benthic","potamodromous","phytophil","eurytop",2,7.17,1.06
+"Gobio.gobio","invertivorous","benthic","potamodromous","polyphil","rheophil",2.36,5.83,1.24
+"Gymnocephalus.baloni","omnivorous","benthic","non migratory","phytolithophil","rheophil",2,6.92,0.45
+"Gymnocephalus.cernua","invertivorous","demersal","potamodromous","phytolithophil","eurytop",2.07,7.42,0.45
+"Gymnocephalus.schraetser","omnivorous","demersal","non migratory","lithophil","rheophil",2.64,6.75,0.57
+"Hucho.hucho","piscivorous","benthic","potamodromous","lithophil","rheophil",4.21,5.58,0.27
+"Hypophthalmichthys.molitrix","phytovorous","benthic","potamodromous","lithophil","eurytop",3.43,7.08,0.27
+"Knipowitschia.caucasica","invertivorous","demersal","non migratory","phytophil","limnophil",2.07,7.42,0.27
+"Lampetra.fluviatilis","parasitic","demersal","diadromous","lithophil","rheophil",4.07,5.17,0.52
+"Lampetra.planeri","detritivorous","demersal","potamodromous","lithophil","rheophil",3.21,4.58,0.45
+"Lepomis.gibbosus","omnivorous","benthic","potamodromous","polyphil","limnophil",2.79,6.83,0.33
+"Leucaspius.delineatus","omnivorous","pelagic","potamodromous","phytophil","limnophil",1.79,6.83,0.33
+"Leuciscus.idus","omnivorous","benthic","potamodromous","phytolithophil","rheophil",3.93,6.83,0.52
+"Leuciscus.leuciscus","omnivorous","benthic","non migratory","lithophil","rheophil",2.93,5.75,0.93
+"Lota.lota","piscivorous","demersal","potamodromous","lithophil","eurytop",3.57,6.33,1.52
+"Misgurnus.fossilis","invertivorous","demersal","non migratory","phytophil","limnophil",2.5,7,0.36
+"Mugil.cephalus","detritivorous","benthic","diadromous","pelagophil","limnophil",4.29,8,0
+"Neogobius.fluviatilis","invertivorous","benthic","non migratory","speleophil","eurytop",1.93,7.25,0.57
+"Neogobius.gymnotrachelus","invertivorous","benthic","non migratory","phytolithophil","eurytop",3.43,7.25,0.57
+"Neogobius.kessleri","invertivorous","benthic","non migratory","lithophil","eurytop",3.18,7,0.55
+"Neogobius.melanostomus","invertivorous","demersal","non migratory","speleophil","eurytop",2.57,7.25,0.57
+"Oncorhynchus.mykiss","invertivorous","benthic","potamodromous","lithophil","rheophil",3.43,4,0.73
+"Osmerus.eperlanus","planktivorous","pelagic","diadromous","lithophil","eurytop",2.86,7.42,0.45
+"Pelecus.cultratus","planktivorous","pelagic","diadromous","pelagophil","eurytop",3.43,7.33,0.61
+"Perca.fluviatilis","piscivorous","demersal","diadromous","phytolithophil","eurytop",2.79,6.92,0.99
+"Petromyzon.marinus","parasitic","demersal","diadromous","lithophil","rheophil",4.93,5.75,0.39
+"Phoxinus.phoxinus","invertivorous","demersal","potamodromous","lithophil","rheophil",2.14,4.67,0.79
+"Platichthys.flesus","invertivorous","demersal","diadromous","pelagophil","eurytop",3.29,7.5,0.45
+"Pleuronectes.platessa","omnivorous","demersal","diadromous","pelagophil","eurytop",3.29,7.5,0.45
+"Proterorhinus.semilunaris","invertivorous","demersal","non migratory","speleophil","eurytop",1.5,7.08,0.63
+"Pseudorasbora.parva","omnivorous","benthic","non migratory","phytolithophil","eurytop",1.79,6.58,0.63
+"Pungitius.pungitius","omnivorous","benthic","non migratory","phytophil","limnophil",2.57,7.17,0.52
+"Rhodeus.amarus","omnivorous","benthic","non migratory","ostracophil","limnophil",2.21,6.5,0.27
+"Rutilus.pigus","omnivorous","benthic","non migratory","phytophil","rheophil",3.14,6.25,0.39
+"Rutilus.rutilus","omnivorous","benthic","potamodromous","phytolithophil","eurytop",2.57,6.83,0.88
+"Sabanejewia.aurata","invertivorous","demersal","non migratory","phytophil","rheophil",1.79,6,0.55
+"Sabanejewia.balcanica","invertivorous","demersal","non migratory","phytophil","rheophil",1.79,6.42,0.81
+"Salmo.salar","piscivorous","benthic","diadromous","lithophil","rheophil",4.71,5,0.55
+"Salmo.trutta.fario","omnivorous","demersal","non migratory","lithophil","rheophil",4.79,4.33,0.24
+"Salmo.trutta.lacustris","omnivorous","demersal","potamodromous","lithophil","rheophil",4.79,4.33,0.24
+"Salmo.trutta.trutta","piscivorous","pelagic","diadromous","lithophil","rheophil",4.79,4.33,0.24
+"Salvelinus.alpinus","planktivorous","benthic","diadromous","lithophil","rheophil",4.79,4.33,0.24
+"Salvelinus.fontinalis","omnivorous","demersal","diadromous","lithophil","rheophil",3.79,3.5,0.27
+"Sander.lucioperca","piscivorous","pelagic","potamodromous","phytolithophil","eurytop",3.43,7.25,0.57
+"Sander.volgensis","piscivorous","demersal","non migratory","phytolithophil","eurytop",2.43,7.25,0.57
+"Scardinius.erythrophthalmus","omnivorous","benthic","potamodromous","phytophil","limnophil",2.86,6.92,0.45
+"Silurus.glanis","piscivorous","demersal","non migratory","phytophil","eurytop",3,7,0.36
+"Squalius.cephalus","omnivorous","benthic","potamodromous","lithophil","rheophil",3,5.83,1.24
+"Syngnathus.abaster","invertivorous","demersal","diadromous","polyphil","limnophil",2.29,7.5,0.27
+"Thymallus.thymallus","invertivorous","benthic","non migratory","lithophil","rheophil",3.14,4.92,0.45
+"Tinca.tinca","omnivorous","demersal","potamodromous","phytophil","limnophil",3.5,6.92,0.45
+"Umbra.pygmaea","invertivorous","demersal","non migratory","phytophil","limnophil",1.79,7,0.18
+"Vimba.vimba","omnivorous","benthic","diadromous","lithophil","rheophil",2.5,6.67,0.79
+"Zingel.asper","invertivorous","demersal","potamodromous","lithophil","rheophil",1.93,6.08,0.45
+"Zingel.streber","omnivorous","demersal","potamodromous","lithophil","rheophil",1.93,6.08,0.45
+"Zingel.zingel","omnivorous","demersal","non migratory","lithophil","rheophil",2.86,6.33,0.24
