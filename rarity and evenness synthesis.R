@@ -10,7 +10,7 @@ library(rphylopic)
 
 # Fish ----
 # Read in the assemblages file used in our RLQs
-fish    <- read.csv("../fish_rlq_spe.csv", row.names = 1)
+fish    <- read.csv("../fish_spe_rlq.csv", row.names = 1)
 
 # Now lets create a proportions table
 fish2 <- fish
@@ -33,17 +33,17 @@ fish6 <- fish6 * rowSums(fish)
 #    (those that made up less than 25% of the community)
 
 # Now sum their abundances
-fish6[, 93] <- rowSums(fish6, na.rm = T)
-fish6 <- rename(fish6, rare_ab = V93)
+fish6[, 88] <- rowSums(fish6, na.rm = T)
+fish6 <- rename(fish6, rare_ab = V88)
 
 # Now their occurances
-fish6$rare_occs <- rowSums(!is.na(fish6[1:92]))
+fish6$rare_occs <- rowSums(!is.na(fish6[1:87]))
 
 # Plot abs and occs
 plot(fish6$rare_ab ~ fish6$rare_occs)
 
 # Add in mim main file
-fish_pred <- read.csv("../fish_modeldf.csv")
+fish_pred <- read.csv("../fish_modeldf_supp.csv")
 
 fish_rare <- fish6
 fish_rare <- select(fish_rare, rare_ab, rare_occs)
@@ -145,7 +145,7 @@ mim7 <- filter(mim7, rare_ab != 20083.00)
 plot(mim7$rare_ab ~ mim7$rare_occs)
 
 # Add in mim main file
-mim_pred <- read.csv("../mim_modeldf.csv")
+mim_pred <- read.csv("../mim_modeldf_supp.csv")
 
 mim_rare <- mim7
 mim_rare <- select(mim_rare, rare_ab, rare_occs)
