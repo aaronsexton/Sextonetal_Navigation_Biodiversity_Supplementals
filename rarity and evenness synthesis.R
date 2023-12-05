@@ -100,7 +100,7 @@ ggpubr::ggarrange(a, b, c, d ,
 
 # Macroinvertebrates ----
 # RLQ Files
-mim <- read.csv("../mimm_rlq_spe.csv", row.names = 1)
+mim <- read.csv("../invert_spe_rlq.csv", row.names = 1)
 str(mim)
 
 # Each row is an observation (3,606) and each column is a taxa (319)
