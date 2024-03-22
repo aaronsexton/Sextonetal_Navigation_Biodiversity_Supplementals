@@ -15,3 +15,5 @@ The third is rarity and evenness synthesis.R which contains the code to run the 
 
 In the Data folder are the csv files which contain the data necessary to run the analyses in the above code.
 Additionally, all supplemental files are hosted in the Supplemental_Files folder. 
+
+This repository has been archived on Zenodo at: https://zenodo.org/doi/10.5281/zenodo.10852736
